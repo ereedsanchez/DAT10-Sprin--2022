@@ -4,7 +4,7 @@
 
 In this class you will learn all the essential tools to run your own business. Google drive software, javascript coding, business entities, and budgeting. 
 
-**Syllabus **
+### Syllabus ###
 - P5.js - Javascript Programming
 - Business Entities - LLC, C-corp, S-Corp, Non-Profit, B-Corp
 - Google Drive
