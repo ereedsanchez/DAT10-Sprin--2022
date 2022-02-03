@@ -30,7 +30,7 @@ In this class you will learn all the essential tools to run your own business. G
 - Prof. Edwin's Introduction
   https://docs.google.com/presentation/d/1DO4mo13DLfQtrIXmLcJu3vFbw-ZE9DRvis9zrheRCs8/edit#slide=id.g76a35e7fa3_0_903
   
-  ##### REFRENCED IN CLASS #####
+##### REFRENCED IN CLASS #####
   -  Bluefields Sound System (https://bluefieldsound.bandcamp.com/)
   -  Paper: "Boom or Bust: A Tale of Rural Connectivity, the Business of Micro ISPs, Community Networks,
 and the Backhaul Conundrum" by. Edwin Reed-Sanchez https://descargas.lacnic.net/lideres/edwin-reed/edwin-reed-sanchez-informe.pdf
@@ -44,9 +44,9 @@ Slides:
 - Who owns the internet? 
 - Draw the internet?
 
-- P5.js introduction
+#### P5.js introduction ####
   - create account, make shapes, learn colors, make self portrait.
   
-  ##### REFRENCED IN CLASS #####
+##### REFRENCED IN CLASS #####
   -  Coding Train: https://thecodingtrain.com/beginners/p5js/
   
